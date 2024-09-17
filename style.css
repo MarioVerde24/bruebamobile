@@ -467,6 +467,9 @@ span{
 
 iframe{
   margin: auto;
+  width: auto !important;
+  height: 250;
+  border: 0;
 }
 
 }
